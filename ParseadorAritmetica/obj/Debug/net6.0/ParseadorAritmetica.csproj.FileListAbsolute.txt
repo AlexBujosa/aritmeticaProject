@@ -1,0 +1,17 @@
+C:\Users\any_c\source\repos\ParseadorAritmetica\ParseadorAritmetica\bin\Debug\net6.0\ParseadorAritmetica.exe
+C:\Users\any_c\source\repos\ParseadorAritmetica\ParseadorAritmetica\bin\Debug\net6.0\ParseadorAritmetica.deps.json
+C:\Users\any_c\source\repos\ParseadorAritmetica\ParseadorAritmetica\bin\Debug\net6.0\ParseadorAritmetica.runtimeconfig.json
+C:\Users\any_c\source\repos\ParseadorAritmetica\ParseadorAritmetica\bin\Debug\net6.0\ParseadorAritmetica.dll
+C:\Users\any_c\source\repos\ParseadorAritmetica\ParseadorAritmetica\bin\Debug\net6.0\ParseadorAritmetica.pdb
+C:\Users\any_c\source\repos\ParseadorAritmetica\ParseadorAritmetica\bin\Debug\net6.0\Antlr4.Runtime.Standard.dll
+C:\Users\any_c\source\repos\ParseadorAritmetica\ParseadorAritmetica\obj\Debug\net6.0\ParseadorAritmetica.csproj.AssemblyReference.cache
+C:\Users\any_c\source\repos\ParseadorAritmetica\ParseadorAritmetica\obj\Debug\net6.0\ParseadorAritmetica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\any_c\source\repos\ParseadorAritmetica\ParseadorAritmetica\obj\Debug\net6.0\ParseadorAritmetica.AssemblyInfoInputs.cache
+C:\Users\any_c\source\repos\ParseadorAritmetica\ParseadorAritmetica\obj\Debug\net6.0\ParseadorAritmetica.AssemblyInfo.cs
+C:\Users\any_c\source\repos\ParseadorAritmetica\ParseadorAritmetica\obj\Debug\net6.0\ParseadorAritmetica.csproj.CoreCompileInputs.cache
+C:\Users\any_c\source\repos\ParseadorAritmetica\ParseadorAritmetica\obj\Debug\net6.0\ParseadorAritmetica.csproj.CopyComplete
+C:\Users\any_c\source\repos\ParseadorAritmetica\ParseadorAritmetica\obj\Debug\net6.0\ParseadorAritmetica.dll
+C:\Users\any_c\source\repos\ParseadorAritmetica\ParseadorAritmetica\obj\Debug\net6.0\refint\ParseadorAritmetica.dll
+C:\Users\any_c\source\repos\ParseadorAritmetica\ParseadorAritmetica\obj\Debug\net6.0\ParseadorAritmetica.pdb
+C:\Users\any_c\source\repos\ParseadorAritmetica\ParseadorAritmetica\obj\Debug\net6.0\ParseadorAritmetica.genruntimeconfig.cache
+C:\Users\any_c\source\repos\ParseadorAritmetica\ParseadorAritmetica\obj\Debug\net6.0\ref\ParseadorAritmetica.dll
